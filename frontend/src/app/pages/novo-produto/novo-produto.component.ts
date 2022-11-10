@@ -34,6 +34,7 @@ export class NovoProdutoComponent implements OnInit {
         console.log(prod)
         alert('Produto salvo com sucesso!')
         // DESAFIO: substituir o alert pelo snackbar do Material
+        // DESAFIO: ao salvar o produto, redirecioná-lo para a página de listagem de produtos automaticamente
       }
     )
   }
