@@ -8,13 +8,6 @@
       "foto": ""
     },
     {
-      "id": 2,
-      "nome": "Prático Congelado Salgadinhos",
-      "preco": "494.00",
-      "descricao": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-      "foto": ""
-    },
-    {
       "id": 3,
       "nome": "Gostoso Borracha Peixe",
       "preco": "16.00",
@@ -26,13 +19,6 @@
       "nome": "Impressionante Algodão Bacon",
       "preco": "680.00",
       "descricao": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
-      "foto": ""
-    },
-    {
-      "id": 5,
-      "nome": "Sem marca Plástico Frango",
-      "preco": "86.00",
-      "descricao": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
       "foto": ""
     },
     {
@@ -160,6 +146,34 @@
       "descricao": "",
       "foto": "http://bonissima.com.br/web/image/product.template/34332/image_1024?unique=b35c554",
       "id": 23
+    },
+    {
+      "nome": "Telefone",
+      "preco": 700,
+      "descricao": "",
+      "foto": "",
+      "id": 24
+    },
+    {
+      "nome": "gsfgsfg",
+      "preco": 55415,
+      "descricao": "",
+      "foto": "",
+      "id": 25
+    },
+    {
+      "nome": "gsfgsfg",
+      "preco": 454,
+      "descricao": "",
+      "foto": "",
+      "id": 26
+    },
+    {
+      "nome": "fçodkfçoçdf",
+      "preco": 7468,
+      "descricao": "",
+      "foto": "",
+      "id": 27
     }
   ]
 }
